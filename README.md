@@ -71,9 +71,3 @@ Course Outline:
 * Spark Streaming
     * Introduction to Spark Streaming 
     * Spark Streaming Code-along!
- 
-    
-    
-    
-
- Spark Tutorial
